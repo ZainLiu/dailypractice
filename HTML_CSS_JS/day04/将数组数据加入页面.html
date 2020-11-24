@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onload=function () {
+            var data=['海贼王','火影忍者','妖精的尾巴','死神','刀剑神域','加速世界','网球王子','钢之炼金术师','全职猎人'];
+            var oul=document.getElementById("oul");
+            var str1="";
+            for(var i=0;i<data.length;i++){
+            str1 += "<li>"+data[i]+"</li>";
+        }
+            console.log(str1);
+            oul.innerHTML = str1;
+        }
+</script>
+    <script src="../../../../课件/额外的课件/django/django/天天生鲜项目页面/天天生鲜项目页面/js/register.js"></script>
+</head>
+<body>
+    <ul id="oul">
+
+    </ul>
+</body>
+</html>

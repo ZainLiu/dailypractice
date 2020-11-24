@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="pifu2.css" id="olink">
+    <script>
+        window.onload=function () {
+            var btn01=document.getElementById('btn01')
+            var btn02=document.getElementById('btn02')
+            var olink=document.getElementById('olink')
+            btn01.onclick=function () {
+                olink.href='pifu1.css'
+            }
+            btn02.onclick=function () {
+                olink.href='pifu2.css'
+            }
+        }
+    </script>
+</head>
+<body>
+    <h2>网页换肤</h2>
+    <button id="btn01">皮肤1</button>
+    <button id="btn02">皮肤2</button>
+</body>
+</html>

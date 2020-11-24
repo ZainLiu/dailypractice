@@ -1,0 +1,32 @@
+ .box{
+            width: 400px;
+            height: 550px;
+            background: #fdffdc;
+            border-top: 1px black solid;
+            border-bottom: 1px black solid;
+        }
+        .hd{
+            line-height: 40px;
+        }
+        .hd h2{
+            float: left;
+            font-weight: normal;
+            font-size: 18px;
+            margin: 0;
+        }
+        .hd a{
+            float: right;
+            text-decoration: none;
+            font-size: 12px;
+            color: black;
+        }
+        .box p{
+            text-indent: 2em;
+            font-size: 12px;
+            color: #737373;
+            line-height: 20px;
+            font-family: '微软雅黑';
+        }
+        .box img{
+            margin: 0px;
+        }

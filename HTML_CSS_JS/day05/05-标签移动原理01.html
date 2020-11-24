@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        div{
+            width: 100px;
+            height: 100px;
+            background: pink;
+            position: absolute;
+            left: 0px;
+            top: 0;
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            var odiv = document.getElementById("odiv");
+
+            var odivLeft = 0;  //用来存放left值
+            var speed = 1;// 是盒子移动的速度，正负值控制方向
+   // 是盒子移动的速度，正负值控制方向
+            //移动原理：不断地快速改变odiv的left属性，从而产生移动效果
+            //每隔一段时间，来修改odiv的left属性
+            setInterval(function () {
+                odivLeft += speed;
+                if(odivLeft > 500){
+                  speed = -1;
+                }else if(odivLeft <0) {
+                  speed = 1;
+                }
+                odiv.style.left = odivLeft + "px";
+
+            }, 10)
+
+        }
+    </script>
+</head>
+<body>
+    <div id="odiv"></div>
+</body>
+</html>

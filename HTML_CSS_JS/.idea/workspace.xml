@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbab5b4-4fe6-4165-9f79-205aed73a664" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HTML_CSS_JS$time.coverage" NAME="time Coverage Results" MODIFIED="1551619007093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test专用" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/打印名片(未完成版).html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day03/JavaScript.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day04/列表操作.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/day03/js获取标签内容.html" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01_常用的几个标签.html" />
+        <option value="$PROJECT_DIR$/day01/01_常用的几个标签.html" />
+        <option value="$PROJECT_DIR$/day01/style.css" />
+        <option value="$PROJECT_DIR$/day01/06体验css.html" />
+        <option value="$PROJECT_DIR$/day01/css/style.css" />
+        <option value="$PROJECT_DIR$/day01/css/小应用.css" />
+        <option value="$PROJECT_DIR$/day01/小应用.html" />
+        <option value="$PROJECT_DIR$/test专用/test1.html" />
+        <option value="$PROJECT_DIR$/day01/js/vue.min.js" />
+        <option value="$PROJECT_DIR$/day02/表单form.html" />
+        <option value="$PROJECT_DIR$/test专用/test2.html" />
+        <option value="$PROJECT_DIR$/day02/伪类选择器.html" />
+        <option value="$PROJECT_DIR$/day02/小案例.html" />
+        <option value="$PROJECT_DIR$/day02/style.css" />
+        <option value="$PROJECT_DIR$/day03/position.html" />
+        <option value="$PROJECT_DIR$/day03/jscript.js" />
+        <option value="$PROJECT_DIR$/day03/JavaScript.html" />
+        <option value="$PROJECT_DIR$/day03/js获取标签内容.html" />
+        <option value="$PROJECT_DIR$/day04/绑定事件.html" />
+        <option value="$PROJECT_DIR$/day04/换肤小应用.html" />
+        <option value="$PROJECT_DIR$/day04/06-网页换肤(未完成版)/index.html" />
+        <option value="$PROJECT_DIR$/day04/列表操作.html" />
+        <option value="$PROJECT_DIR$/day04/打印名片(未完成版)/打印名片(未完成版).html" />
+        <option value="$PROJECT_DIR$/day04/将数组数据加入页面.html" />
+        <option value="$PROJECT_DIR$/day04/作业/练习1/练习001.html" />
+        <option value="$PROJECT_DIR$/day04/作业/练习1/练习002.html" />
+        <option value="$PROJECT_DIR$/day04/作业/练习1/003.css" />
+        <option value="$PROJECT_DIR$/day04/作业/练习1/003.js" />
+        <option value="$PROJECT_DIR$/day05/03-定时器格式和特点（未完成版）.html" />
+        <option value="$PROJECT_DIR$/day05/05-标签移动原理01.html" />
+        <option value="$PROJECT_DIR$/day05/无缝动画(未完成版)/无缝滚动.html" />
+        <option value="$PROJECT_DIR$/day05/jQuery初体验.html" />
+        <option value="$PROJECT_DIR$/day05/jq的其他选择器.html" />
+        <option value="$PROJECT_DIR$/day05/无缝动画(未完成版)/js/move.js" />
+        <option value="$PROJECT_DIR$/day05/16-选项卡(未完成版).html" />
+        <option value="$PROJECT_DIR$/day05/13-子级选择器(未完成版).html" />
+        <option value="$PROJECT_DIR$/day06/tab动画案例(未完成版)/tab动画案例.html" />
+        <option value="$PROJECT_DIR$/day06/弹框案例(未完成版)/弹框案例.html" />
+        <option value="$PROJECT_DIR$/day06/层级菜单(未完成版).html" />
+        <option value="$PROJECT_DIR$/day04/作业/练习1/练习003.html" />
+        <option value="$PROJECT_DIR$/day06/聊天对话框(jq版).html" />
+        <option value="$PROJECT_DIR$/day06/注册表单验证(未完成版)/register.html" />
+        <option value="$PROJECT_DIR$/day06/注册表单验证(未完成版)/css/main.css" />
+        <option value="$PROJECT_DIR$/day06/注册表单验证(未完成版)/js/register.js" />
+        <option value="$PROJECT_DIR$/day07/todolist未完成版.html" />
+        <option value="$PROJECT_DIR$/test专用/withopen.py" />
+        <option value="$PROJECT_DIR$/day08/03-v-for指令.html" />
+        <option value="$PROJECT_DIR$/day08/06-聊天对话框(完成版)02.html" />
+        <option value="$PROJECT_DIR$/day08/聊天对话框(未完成版).html" />
+        <option value="$PROJECT_DIR$/day08/08-todolist(完成版)02.html" />
+        <option value="$PROJECT_DIR$/test专用/time.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="166" />
+    <option name="y" value="155" />
+    <option name="width" value="1680" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML_CSS_JS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python高级2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day08" />
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS" />
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day07" />
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day06" />
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day05" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day01\css" />
+      <recent name="D:\PycharmProjects\testproject\HTML_CSS_JS\day01" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.time">
+    <configuration name="03-v-for指令.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_CSS_JS/day08/03-v-for指令.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="06-聊天对话框(完成版)02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_CSS_JS/day08/06-聊天对话框(完成版)02.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="08-todolist(完成版)02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_CSS_JS/day08/08-todolist(完成版)02.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="聊天对话框(未完成版).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML_CSS_JS/day08/聊天对话框(未完成版).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="time" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HTML_CSS_JS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test专用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test专用/time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.time" />
+        <item itemvalue="JavaScript Debug.08-todolist(完成版)02.html" />
+        <item itemvalue="JavaScript Debug.聊天对话框(未完成版).html" />
+        <item itemvalue="JavaScript Debug.06-聊天对话框(完成版)02.html" />
+        <item itemvalue="JavaScript Debug.03-v-for指令.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbab5b4-4fe6-4165-9f79-205aed73a664" name="Default Changelist" comment="" />
+      <created>1547950578506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547950578506</updated>
+      <workItem from="1547950580465" duration="2990000" />
+      <workItem from="1547968640412" duration="4991000" />
+      <workItem from="1547979398293" duration="112000" />
+      <workItem from="1547979779101" duration="1052000" />
+      <workItem from="1547981616324" duration="5013000" />
+      <workItem from="1548030178225" duration="9985000" />
+      <workItem from="1548053593361" duration="6353000" />
+      <workItem from="1548210228189" duration="1761000" />
+      <workItem from="1548229595225" duration="2320000" />
+      <workItem from="1548296243003" duration="2689000" />
+      <workItem from="1548311574677" duration="7927000" />
+      <workItem from="1548327139579" duration="433000" />
+      <workItem from="1548330540283" duration="2116000" />
+      <workItem from="1548342831003" duration="614000" />
+      <workItem from="1548375111396" duration="5571000" />
+      <workItem from="1548382218690" duration="5254000" />
+      <workItem from="1548399180133" duration="3007000" />
+      <workItem from="1548413299021" duration="4826000" />
+      <workItem from="1548555524418" duration="3169000" />
+      <workItem from="1548569898247" duration="6879000" />
+      <workItem from="1548586771977" duration="3223000" />
+      <workItem from="1548645761796" duration="1100000" />
+      <workItem from="1548657459001" duration="1611000" />
+      <workItem from="1548773604343" duration="154000" />
+      <workItem from="1548836049554" duration="113000" />
+      <workItem from="1549938872528" duration="3362000" />
+      <workItem from="1549954088252" duration="661000" />
+      <workItem from="1550844039338" duration="595000" />
+      <workItem from="1551399612331" duration="572000" />
+      <workItem from="1551409919979" duration="1243000" />
+      <workItem from="1551617900239" duration="1705000" />
+      <workItem from="1551684513596" duration="78000" />
+      <workItem from="1552229400628" duration="15000" />
+      <workItem from="1552609440803" duration="168000" />
+      <workItem from="1552875648071" duration="246000" />
+      <workItem from="1552923194779" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="91938000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="133" y="124" width="1344" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22161742" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4183124" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day03/js获取标签内容.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/绑定事件.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/换肤小应用.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/06-网页换肤(未完成版)/pifu1.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/06-网页换肤(未完成版)/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/images/bg03.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/images/bg02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/images/bg01.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/css/main02.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="62" column="1" selection-start-line="62" selection-start-column="1" selection-end-line="62" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/列表操作.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/将数组数据加入页面.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/打印名片(未完成版)/打印名片(未完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/作业/练习1/练习002.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="85" column="177" selection-start-line="85" selection-start-column="177" selection-end-line="85" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/作业/练习1/练习001.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="77" column="10" selection-start-line="77" selection-start-column="10" selection-end-line="77" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/作业/练习1/003.css" />
+    <entry file="file://$PROJECT_DIR$/day04/作业/练习1/003.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="15" lean-forward="true" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/03-定时器格式和特点（未完成版）.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/05-标签移动原理01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/jq的其他选择器.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/jQuery初体验.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/无缝动画(未完成版)/无缝滚动.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="75" column="17" selection-start-line="75" selection-start-column="17" selection-end-line="75" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/无缝动画(未完成版)/js/move.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="2" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/16-选项卡(未完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day05/13-子级选择器(未完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="48" column="23" lean-forward="true" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/tab动画案例(未完成版)/js/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/tab动画案例(未完成版)/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/弹框案例(未完成版)/js/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/tab动画案例(未完成版)/tab动画案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="n#ul#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/弹框案例(未完成版)/弹框案例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/弹框案例(未完成版)/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="69" column="14" selection-start-line="69" selection-start-column="14" selection-end-line="69" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/层级菜单(未完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="75" column="13" selection-start-line="75" selection-start-column="13" selection-end-line="75" selection-end-column="13" />
+          <folding>
+            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day04/作业/练习1/练习003.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="84" column="27" lean-forward="true" selection-start-line="84" selection-start-column="27" selection-end-line="84" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/聊天对话框(js版).html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/聊天对话框(jq版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="85" column="44" selection-start-line="85" selection-start-column="44" selection-end-line="85" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/注册表单验证(未完成版)/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32592">
+          <caret line="1164" column="14" selection-start-line="1164" selection-start-column="14" selection-end-line="1164" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/注册表单验证(未完成版)/js/register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06/注册表单验证(未完成版)/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-1.12.4.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07/todolist未完成版.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="80" column="96" selection-start-line="80" selection-start-column="76" selection-end-line="80" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test专用/withopen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1201333238/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="352" column="62" selection-start-line="352" selection-start-column="62" selection-end-line="352" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/03-v-for指令.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/05-聊天对话框(完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1932" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/06-聊天对话框(完成版)02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="86" column="85" selection-start-line="86" selection-start-column="85" selection-end-line="86" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/08-todolist(完成版)02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test专用/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day08/聊天对话框(未完成版).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="80" column="48" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

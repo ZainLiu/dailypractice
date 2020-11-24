@@ -1,0 +1,13 @@
+body{
+    background: #ccc;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background: pink;
+    border:0;
+    font-size:20px;
+    border-radius: 25px;
+    outline-style: none;  /*表单元素聚焦时候的蓝色边线*/
+}

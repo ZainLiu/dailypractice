@@ -1,0 +1,444 @@
+{
+    "props": {
+        "pageProps": {
+            "platform": {
+                "id": "produce",
+                "platform_id": 1,
+                "name": "《创造营2020》成员网络数据汇总",
+                "title": "AIIUII - 腾讯视频《创造营2020》成员数据汇总 - 网络实时数据|投票实时数据|爱柚数据|爱U数据 - aiiuii.com",
+                "description": "腾讯视频《创造营2020》成员网络数据排名、粉丝数据、投票实时数据、微博热度七日变化趋势。历史数据折线图。",
+                "options": [
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 47,
+                        "label": "微视能量/周",
+                        "title": "微视能量站周",
+                        "desc": {
+                            "title": "每周六00:00开启新一轮"
+                        },
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 48,
+                        "label": "微视能量/总",
+                        "title": "微视能量站总",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 49,
+                        "label": "微视能量/视频",
+                        "title": "微视能量站视频",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 53,
+                        "label": "曼妮芬自信补给",
+                        "title": "曼妮芬自信补给能量站",
+                        "desc": {
+                            "title": "投票页数据过十万后，显示的最小增长单位是100，这里的显示与之同步"
+                        },
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 58,
+                        "label": "真热爱发光榜",
+                        "title": "真热爱发光",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 50,
+                        "label": "荣耀30能量站",
+                        "title": "荣耀30能量站",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 51,
+                        "label": "ABC能量站",
+                        "title": "ABC汉方护体能量站",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 52,
+                        "label": "高露洁能量站/总榜",
+                        "title": "高露洁能量站总",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 46,
+                        "label": "QQ音乐能量站",
+                        "title": "QQ音乐能量站人气能量",
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 41,
+                        "label": "Dance赛道",
+                        "title": "Dance赛道",
+                        "cycle": [
+                            2,
+                            0,
+                            0
+                        ],
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 42,
+                        "label": "Vocal赛道",
+                        "title": "Vocal赛道",
+                        "cycle": [
+                            2,
+                            0,
+                            0
+                        ],
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 43,
+                        "label": "创作赛道",
+                        "title": "创作赛道",
+                        "cycle": [
+                            2,
+                            0,
+                            0
+                        ],
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "fast",
+                        "field": "vote",
+                        "type": 44,
+                        "label": "艺能赛道",
+                        "title": "艺能赛道",
+                        "cycle": [
+                            2,
+                            0,
+                            0
+                        ],
+                        "date": [
+                            "实时",
+                            "3d",
+                            "7d"
+                        ]
+                    },
+                    {
+                        "table": "super",
+                        "field": "super_sign",
+                        "label": "超话签到",
+                        "update": "1天",
+                        "desc": {
+                            "title": "约为每日23:55(±5分钟)左右的签到数据"
+                        },
+                        "date": [
+                            "14d",
+                            "30d"
+                        ],
+                        "fields": [
+                            "super_sign"
+                        ],
+                        "popover": [
+                            "每天00:06更新昨日数据；",
+                            "约为每日23:55(±5分钟)左右的签到数据，比23:59:59数据要低。"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "super_posts",
+                        "label": "超话帖子",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "14d",
+                            "30d"
+                        ],
+                        "fields": [
+                            "super_posts"
+                        ],
+                        "popover": [
+                            "每小时56分更新，增长数据说明：",
+                            "小时+：是基于帖子总数计算的，删帖、屏蔽均会减少；",
+                            "昨日+：是基于新发帖计算的，删帖、屏蔽不会减少（昨日新增 - 昨日24个小时新增之和 ≈ 昨日删帖/屏蔽贴子数）；"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "weibo_fans",
+                        "label": "微博粉丝",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "14d",
+                            "30d"
+                        ],
+                        "fields": [
+                            "weibo_fans"
+                        ],
+                        "popover": [
+                            "每小时56分更新"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "pp_fans",
+                        "label": "腾讯视频撑腰粉丝",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "7d",
+                            "15d"
+                        ],
+                        "fields": [
+                            "pp_fans"
+                        ],
+                        "popover": [
+                            "每小时56分更新",
+                            "腾讯视频投票页显示的粉丝数，投票后自动关注。需要注意的是，这个数据与Doki粉丝是两套体系。"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "ws_fans",
+                        "label": "微视撑腰粉丝",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "7d",
+                            "15d"
+                        ],
+                        "fields": [
+                            "ws_fans"
+                        ],
+                        "popover": [
+                            "每小时56分更新",
+                            "微视粉丝数，投票后自动关注。"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "doki_fans",
+                        "label": "Doki粉丝",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "7d",
+                            "15d"
+                        ],
+                        "fields": [
+                            "doki_fans"
+                        ],
+                        "popover": [
+                            "每小时56分更新",
+                            "与撑腰粉丝（投票页显示）是两套体系。"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "doki_popularity",
+                        "label": "Doki人气",
+                        "cycle": [
+                            1,
+                            0,
+                            51
+                        ],
+                        "update": "1小时",
+                        "date": [
+                            "1d",
+                            "3d",
+                            "7d"
+                        ],
+                        "fields": [
+                            "doki_popularity",
+                            "doki_rank"
+                        ],
+                        "popover": [
+                            "每小时56分更新"
+                        ]
+                    },
+                    {
+                        "table": "boost",
+                        "field": "sum",
+                        "label": "元气能量加油站",
+                        "update": "1小时",
+                        "date": [
+                            "24h",
+                            "3d",
+                            "7d"
+                        ],
+                        "fields": [
+                            "sum",
+                            "mention",
+                            "interactive",
+                            "addoil"
+                        ],
+                        "popover": [
+                            "每小时31分更新"
+                        ]
+                    },
+                    {
+                        "label": "最新微博转评赞",
+                        "update": "1小时",
+                        "table": "hour",
+                        "popover": [
+                            "每小时56分更新",
+                            "统计成员最新发布的原创或转发微博"
+                        ],
+                        "tabKey": "tk01",
+                        "fields": [
+                            "weibo_like",
+                            "weibo_forward",
+                            "weibo_comment"
+                        ]
+                    },
+                    {
+                        "table": "hour",
+                        "field": "baike_pv",
+                        "label": "百科浏览",
+                        "update": "1小时",
+                        "date": [
+                            "14d",
+                            "30d"
+                        ],
+                        "popover": [
+                            "每小时56分更新"
+                        ],
+                        "fields": [
+                            "baike_pv"
+                        ]
+                    }
+                ],
+                "keywords": "创造营,创造营排名,创造营2020,创造营2020排名,创造营2020网络数据,爱U数据,aiiuii,创造营2020实时数据,创造营2020数据,创3,创造营2020实时票数,创造营2020实时排名",
+                "ad": 0,
+                "status": 1,
+                "head_pic": "https://static.aiiuii.com/images/banner/produce3.jpg",
+                "alert_title": "网站说明",
+                "alert_btn": "去查看",
+                "alert_link": "https://weibo.com/5587098929/J5JhLhnbi",
+                "alert_content": "有的妹妹粉丝发送了多张Banner，我只选我认为好看的几张（不超过三张）做随机展示。",
+                "alert_type": "info",
+                "alert_expired": 1592150399,
+                "banner": [
+                    {
+                        "id": 37,
+                        "jump_link": "https://ws.wedge2.cn/diyclient/",
+                        "image": "https://tva1.sinaimg.cn/large/007S8ZIlly1gfn0zg7oivj30ks03cacd.jpg",
+                        "alt": "微视活动",
+                        "label": "微视活动",
+                        "value": null
+                    },
+                    {
+                        "id": 29,
+                        "jump_link": "https://weibo.com/u/3908122917",
+                        "image": "https://tva1.sinaimg.cn/large/007S8ZIlly1gfm8qtzofxj30ku03caav.jpg",
+                        "alt": "刘念",
+                        "label": "刘念",
+                        "value": null
+                    },
+                    {
+                        "id": 23,
+                        "jump_link": "https://weibo.com/u/3668829440",
+                        "image": "https://tva1.sinaimg.cn/large/007S8ZIlgy1gflxrw5cfcj30ku03c76n.jpg",
+                        "alt": "赵粤",
+                        "label": "赵粤",
+                        "value": null
+                    },
+                    {
+                        "id": 19,
+                        "jump_link": "https://weibo.com/u/5717017841",
+                        "image": "https://tva1.sinaimg.cn/large/007S8ZIlgy1gfltxbh1szj30ku03cwfn.jpg",
+                        "alt": "华承妍",
+                        "label": "华承妍",
+                        "value": null
+                    },
+                    {
+                        "id": 40,
+                        "jump_link": "https://weibo.com/u/5861115930",
+                        "image": "https://tva1.sinaimg.cn/large/007S8ZIlgy1gfpkbb1crdj30ku03cabq.jpg",
+                        "alt": "孙珍妮",
+                        "label": "孙珍妮2",
+                        "value": null
+                    }
+                ],
+                "height": "167.61",
+                "age": "22.09"
+            }
+        },
+        "__N_SSP": true
+    },
+    "page": "/item/[pid]",
+    "query": {
+        "pid": "produce"
+    },
+    "buildId": "9cVRLacremdfmEJHqvKEp",
+    "isFallback": false,
+    "gssp": true,
+    "customServer": true
+}

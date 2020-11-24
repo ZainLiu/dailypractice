@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="../vue.js"></script>
+
+</head>
+<body>
+    <div id="app">
+        <ul>
+            <!--遍历数组list1， i就是每一个元素-->
+            <li v-for="i in list1">{{ i }}</li>
+        </ul>
+
+        <ul>
+            <!--遍历数组list1， i就是每一个元素， j是每一个元素的下标-->
+            <li v-for="(i, j) in list1">{{ i }} {{ j }}</li>
+        </ul>
+
+        <ul>
+            <!--遍历js对象， i就是每一个值-->
+            <li v-for="i in myObj">{{ i }}</li>
+        </ul>
+        <ul>
+            <!--遍历js对象， i就是每一个值， j就是每一个键名-->
+            <li v-for="(i, j) in myObj">{{ i }} {{ j }}</li>
+        </ul>
+    </div>
+    <script>
+        var vm = new Vue({
+            el:"#app",
+            data:{
+                list1:["html", "css", "javascipt", "Vue"],
+                myObj: {name: "javascript", age: 24}
+            }
+        })
+    </script>
+</body>
+</html>

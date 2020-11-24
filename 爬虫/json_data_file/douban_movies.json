@@ -1,0 +1,349 @@
+{
+    "count": 18,
+    "subject_collection": {
+        "subject_type": "",
+        "subtitle": "",
+        "background_color_scheme": {
+            "is_dark": true,
+            "primary_color_light": "6f6672",
+            "secondary_color": "f8f4f9",
+            "primary_color_dark": "4a444c"
+        },
+        "sharing_title": "",
+        "updated_at": null,
+        "screenshot_title": "分享海报",
+        "screenshot_url": "douban://partial.douban.com/screenshot/subject_collection/movie_showing/_content",
+        "total": 0,
+        "screenshot_type": "rexxar",
+        "id": "movie_showing",
+        "name": "影院热映",
+        "show_header_mask": false,
+        "medium_name": "",
+        "badge": null,
+        "description": "",
+        "short_name": "",
+        "n_followers": null,
+        "cover_url": "",
+        "show_rank": true,
+        "done_count": 0,
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject_collection/movie_showing/",
+        "subject_count": 0,
+        "wechat_timeline_share": "url",
+        "collect_count": 0,
+        "url": "https://m.douban.com/app_topic/movie_showing",
+        "uri": "douban://douban.com/subject_collection/movie_showing",
+        "mini_program_page": "",
+        "icon_fg_image": "",
+        "more_description": "",
+        "mini_program_name": "",
+        "display": {
+            "layout": "grid"
+        }
+    },
+    "subject_collection_items": [
+        {
+            "original_price": null,
+            "rating": {
+                "count": 64229,
+                "max": 10,
+                "value": 8.2
+            },
+            "cover": {
+                "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2578705064.jpg",
+                "width": 4000,
+                "shape": "rectangle",
+                "height": 5926
+            },
+            "actions": [
+                "可播放"
+            ],
+            "year": "2019",
+            "card_subtitle": "2019 / 美国 / 剧情 / 克林特·伊斯特伍德 / 保罗·沃尔特·豪泽 山姆·洛克威尔",
+            "id": "25842038",
+            "title": "理查德·朱维尔的哀歌",
+            "comments": [
+                {
+                    "comment": "几近满分。东木于二十一世纪这糟糕的第二个十年的尾声发出了自己的最强右翼宣讲。理查德·朱维尔不再是士兵、机长、官员、罪犯，而是一个最普通的人，...-- 文森特九六",
+                    "rating": {
+                        "count": 1,
+                        "max": 5,
+                        "star_count": 4,
+                        "value": 4
+                    },
+                    "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/movie/25842038/interest/2089915970",
+                    "is_voted": false,
+                    "uri": "douban://douban.com/movie/25842038/interest/2089915970",
+                    "platforms": [],
+                    "vote_count": 948,
+                    "create_time": "2019-12-18 17:01:05",
+                    "status": "done",
+                    "user": {
+                        "loc": null,
+                        "kind": "user",
+                        "followed": false,
+                        "name": "文森特九六",
+                        "in_blacklist": false,
+                        "url": "https://www.douban.com/people/66306592/",
+                        "gender": "M",
+                        "reg_time": "2012-11-15 20:55:18",
+                        "uri": "douban://douban.com/user/66306592",
+                        "remark": "",
+                        "avatar": "https://img9.doubanio.com/icon/up66306592-44.jpg",
+                        "type": "user",
+                        "id": "66306592",
+                        "uid": "ILWTFT"
+                    },
+                    "id": "2089915970",
+                    "wechat_timeline_share": "screenshot"
+                }
+            ],
+            "label": null,
+            "actors": [
+                "保罗·沃尔特·豪泽",
+                "山姆·洛克威尔",
+                "凯西·贝茨"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": true,
+            "price": null,
+            "date": null,
+            "info": "美国 / 剧情 / 克林特·伊斯特伍德 / 保罗·沃尔特·豪泽 山姆·洛克威尔",
+            "rating_data": {
+                "stats": [
+                    0.0006873942470389171,
+                    0.006503807106598985,
+                    0.13763747884940777,
+                    0.5804251269035533,
+                    0.274746192893401
+                ],
+                "type_ranks": [
+                    {
+                        "type": "剧情片",
+                        "rank": 0.8
+                    }
+                ]
+            },
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/25842038",
+            "release_date": "01.10",
+            "original_title": "Richard Jewell",
+            "uri": "douban://douban.com/movie/25842038",
+            "subtype": "",
+            "directors": [
+                "克林特·伊斯特伍德"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": ""
+        },
+        {
+            "original_price": null,
+            "rating": {
+                "count": 47259,
+                "max": 10,
+                "value": 7.5
+            },
+            "actions": [],
+            "year": "2019",
+            "card_subtitle": "2019 / 美国 / 喜剧 动作 科幻 / 尼克·布鲁诺 特洛伊·奎安 / 威尔·史密斯 汤姆·赫兰德",
+            "id": "27000084",
+            "title": "变身特工",
+            "label": null,
+            "actors": [
+                "威尔·史密斯",
+                "汤姆·赫兰德",
+                "拉什达·琼斯"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": false,
+            "price": null,
+            "date": null,
+            "info": "美国 / 喜剧 动作 科幻 / 尼克·布鲁诺 / 威尔·史密斯 汤姆·赫兰德",
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/27000084",
+            "release_date": "01.03",
+            "cover": {
+                "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2577340942.jpg",
+                "width": 4240,
+                "shape": "rectangle",
+                "height": 6317
+            },
+            "uri": "douban://douban.com/movie/27000084",
+            "subtype": "",
+            "directors": [
+                "尼克·布鲁诺"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": ""
+        },
+        {
+            "original_price": null,
+            "rating": {
+                "count": 13566,
+                "max": 10,
+                "value": 5.6
+            },
+            "actions": [
+                "可播放"
+            ],
+            "year": "2018",
+            "card_subtitle": "2018 / 美国 / 科幻 惊悚 / 本·扬 / 迈克尔·佩纳 丽兹·卡潘",
+            "id": "26871938",
+            "title": "灭绝",
+            "label": null,
+            "actors": [
+                "迈克尔·佩纳",
+                "丽兹·卡潘",
+                "伊瑟尔·布罗萨德"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": true,
+            "price": null,
+            "date": null,
+            "info": "美国 / 科幻 惊悚 / 本·扬 / 迈克尔·佩纳 丽兹·卡潘",
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/26871938",
+            "release_date": "01.18",
+            "cover": {
+                "url": "https://img1.doubanio.com/view/photo/m_ratio_poster/public/p2579512247.jpg",
+                "width": 8080,
+                "shape": "rectangle",
+                "height": 12011
+            },
+            "uri": "douban://douban.com/movie/26871938",
+            "subtype": "",
+            "directors": [
+                "本·扬"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": ""
+        },
+        {
+            "original_price": null,
+            "rating": null,
+            "actions": [],
+            "year": "2020",
+            "card_subtitle": "2020 / 中国大陆 / 爱情 奇幻 / 姚婷婷 / 李鸿其 李一桐",
+            "id": "26661193",
+            "title": "我在时间尽头等你",
+            "label": null,
+            "actors": [
+                "李鸿其",
+                "李一桐",
+                "范伟"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": false,
+            "price": null,
+            "date": null,
+            "info": "中国大陆 / 爱情 奇幻 / 姚婷婷 / 李鸿其 李一桐",
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/26661193",
+            "release_date": null,
+            "cover": {
+                "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2585460940.jpg",
+                "width": 5906,
+                "shape": "rectangle",
+                "height": 8268
+            },
+            "uri": "douban://douban.com/movie/26661193",
+            "subtype": "",
+            "directors": [
+                "姚婷婷"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": "尚未上映"
+        },
+        {
+            "original_price": null,
+            "rating": {
+                "count": 30768,
+                "max": 10,
+                "value": 7.5
+            },
+            "actions": [
+                "可播放"
+            ],
+            "year": "2019",
+            "card_subtitle": "2019 / 日本 / 剧情 动画 / 藤田春香 / 石川由依 茅原实里",
+            "id": "33424345",
+            "title": "紫罗兰永恒花园外传：永远与自动手记人偶",
+            "label": null,
+            "actors": [
+                "石川由依",
+                "茅原实里",
+                "远藤绫"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": true,
+            "price": null,
+            "date": null,
+            "info": "日本 / 剧情 动画 / 藤田春香 / 石川由依 茅原实里",
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/33424345",
+            "release_date": "01.10",
+            "cover": {
+                "url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2578722076.jpg",
+                "width": 4604,
+                "shape": "rectangle",
+                "height": 6551
+            },
+            "uri": "douban://douban.com/movie/33424345",
+            "subtype": "",
+            "directors": [
+                "藤田春香"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": ""
+        },
+        {
+            "original_price": null,
+            "rating": {
+                "count": 10017,
+                "max": 10,
+                "value": 5.1
+            },
+            "actions": [
+                "可播放"
+            ],
+            "year": "2019",
+            "card_subtitle": "2019 / 英国 / 惊悚 冒险 / 约翰内斯·罗伯茨 / 尼娅·朗 约翰·考伯特",
+            "id": "27186353",
+            "title": "鲨海逃生",
+            "label": null,
+            "actors": [
+                "尼娅·朗",
+                "约翰·考伯特",
+                "苏菲·奈丽丝"
+            ],
+            "interest": null,
+            "type": "movie",
+            "description": "",
+            "has_linewatch": true,
+            "price": null,
+            "date": null,
+            "info": "英国 / 惊悚 冒险 / 约翰内斯·罗伯茨 / 尼娅·朗 约翰·考伯特",
+            "url": "https://www.douban.com/doubanapp/dispatch/movie/27186353",
+            "release_date": "01.10",
+            "cover": {
+                "url": "https://img3.doubanio.com/view/photo/m_ratio_poster/public/p2578721161.jpg",
+                "width": 1200,
+                "shape": "rectangle",
+                "height": 1776
+            },
+            "uri": "douban://douban.com/movie/27186353",
+            "subtype": "",
+            "directors": [
+                "约翰内斯·罗伯茨"
+            ],
+            "reviewer_name": "",
+            "null_rating_reason": ""
+        }
+    ],
+    "total": 6,
+    "start": 0
+}

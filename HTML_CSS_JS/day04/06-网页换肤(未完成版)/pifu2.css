@@ -1,0 +1,13 @@
+body{
+    background: gold;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    background: green;
+    border:0;
+    color:#fff;
+    font-size:20px;
+    outline-style: none;  /*表单元素聚焦时候的蓝色边线*/
+}

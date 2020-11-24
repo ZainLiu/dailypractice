@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="js/vue.min.js"></script>
+
+</head>
+<body>
+    <div id="app">
+
+         <!--v-if指令  值是布尔值，如果为true表示浏览器渲染这个标签，为false就不渲染(解析)这个标签-->
+        <!--<div v-if="bool">1111</div>-->
+
+        <!--v-if的值如果为true表示浏览器渲染这个标签，为false渲染的是 v-else的标签-->
+        <!--<div v-if="bool">1111</div>-->
+        <!--<div v-else>2222</div>-->
+
+
+
+        <!--<div v-if="type=='a'">1111</div>-->
+        <!--<div v-else-if="type=='b'">2222</div>-->
+        <!--<div v-else-if="type=='c'">3333</div>-->
+        <!--<div v-else>4444</div>-->
+
+
+        <!--v-show  隐藏或者显示盒子-->
+        <div v-show="bool2">盒子</div>
+        <!--<div style="display: none">隐藏盒子</div>-->
+    </div>
+    <script>
+        var vm = new Vue({
+            el:"#app",
+            data:{
+                bool:true,
+                type:"cccc",
+                bool2: true
+            }
+        })
+    </script>
+</body>
+</html>

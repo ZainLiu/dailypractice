@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-1.12.4.min.js"></script>
+    <script>
+        $(function () {
+            $("button").eq(0).click(function () {
+                $("div").show(100);
+            })
+            $("button").eq(1).click(function () {
+                $("div").hide(100)
+            })
+        })
+    </script>
+    <style>
+        .box {
+            width: 300px;
+            height: 300px;
+            background-color: pink;
+        }
+    </style>
+</head>
+<body>
+<button>显示</button>
+<button>隐藏</button>
+<div class="box"></div>
+</body>
+</html>

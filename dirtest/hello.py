@@ -3,3 +3,4 @@ __all__ = ('a',)
 # print(object)
 a = 1
 b = 3
+hello = 2333
